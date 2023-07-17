@@ -13,4 +13,4 @@ Discover the limitless possibilities of IaC and propel your organization into th
 
 ## Read More
 
-* [Sample scenario: Workplace safety - debris detection](./samples/debris-detection/)
+* [Sample scenario: Workplace safety - debris detection](./samples/debris-detection/debris-detection.md)
